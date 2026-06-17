@@ -4,6 +4,7 @@ This repository provides the core Python SDK architecture, and motion control sc
 
 ## Repository Structure
 
+```bash
 📦 fairino-python-sdk-main
 ┗ 📂 linux                     # Primary Linux/WSL deployment context
   ┣ 📂 fairino                 # Core SDK initialization layers
@@ -12,6 +13,7 @@ This repository provides the core Python SDK architecture, and motion control sc
   ┃ 
   ┣ 📜 test_movement.py        # Verified trajectory integration validation script
   ┗ 📜 test_robot.py           # Primary communication and interface diagnostic script
+```
 
 ---
 
