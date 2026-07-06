@@ -46,11 +46,17 @@ Demonstrates multi-axis path smoothing using linear (MoveL) and articular (MoveJ
 
 [![Watch the video](https://img.youtube.com/vi/CozXwgoSC2s/0.jpg)](https://youtu.be/CozXwgoSC2s)
 
+
+[Watch the video](https://youtu.be/CozXwgoSC2s)
+
+
 2. Advanced Spiral Path Toolpath
 Showcases tool coordinate system offsets (offset_flag=2) paired with dynamic spiral interpolation (NewSpiral) used for orbital tracking and surface processing routines.
 
 [![Watch the video](https://img.youtube.com/vi/cKOAUhq4eBk/0.jpg)](https://youtu.be/cKOAUhq4eBk)
 
+
+[Watch the video](https://youtu.be/cKOAUhq4eBk)
 
 
 Contact & Support
