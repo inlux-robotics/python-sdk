@@ -2,7 +2,7 @@
 
 This repository provides the core Python SDK architecture, and motion control scripts for Fairino collaborative robots within a Linux environment.
 
- • SDK Version: v3.9.6
+ • SDK Version: v2.2.2_robot3.9.2
 
  • Fairino WebApp version: 3.9.6
 
